@@ -67,13 +67,12 @@ def solvePrefix(expression):
                         answer = str(v2) + ' ' + str(v1) + sign
                     elif(sign == "*"):
                         answer = str(v2) + ' ' + str(v1) + sign
-                    print("EXCEPTION")
                     letters.push(answer)
                         
             temp = ''
     return letters.pop()
 def main():
-    wow = "1 5 + 3 25 -*"
+    wow = "4 4 4 4 4 4 4 4 4 4 4 4 4 4 4++++++++++++++ 5 6+-"
     value = solvePrefix(wow)
     print(value)
 main()

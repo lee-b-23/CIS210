@@ -42,6 +42,7 @@ class Queue:
             value = self.queue[self.end]
             self.queue[self.end] = None
             self.end = self.end - 1
+            return value
         else:
             print("ERROR:  Queue is empty.")
             return False
