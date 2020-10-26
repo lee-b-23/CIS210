@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+TimerStart                                                    Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                                     Timer
+
+
+
+
+                          Press ENTER To start a timer.
+
+                     Once the timer has started, press enter
+                            again to stop the timer.
+
+
+
+
+
+
+
+
+Press ENTER to start the timer >>> 

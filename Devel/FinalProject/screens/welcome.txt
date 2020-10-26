@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+WelcomeScreen                                                 Date: 10/22/2020
+
+
+
+
+
+
+
+                           Welcome to my CIS210 Final Project Program!
+
+
+                                     Press ENTER to continue.
+
+
+
+
+
+
+
+
+
+Press ENTER to continue >>> 

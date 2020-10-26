@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+AboutScreen                                                   Date: 10/22/2020
+
+
+                              CIS210 Final Project
+                                     About
+
+
+
+
+                 This program was created by Lee Brown as his
+                    final project for his CIS210 course at
+                         Manchester Community College.
+
+         If you would like to contact Lee, you can send him an email
+                        at lbrown565@students.ccsnh.edu.
+
+
+
+
+
+
+Type position # here >>> 

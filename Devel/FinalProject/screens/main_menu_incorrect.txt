@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+RotateGears                                                   Date: 10/23/2020
+
+
+                               CIS210 Final Project
+                                   Main Menu
+								   
+                            ________________________
+                           |TIMER                (1)|
+                           |LARGEST NUMBER       (2)|
+                           |POSTFIX MATH SOLVER  (3)|
+                           |LOTS OF CHOICES      (4)|
+                           |CHOOSE WISELY        (5)|
+                           |ABOUT                (6)|
+                           |EXIT                 (7)|
+                           |________________________|
+
+
+
+
+
+
+Incorrect input.  Try again!  Type option # only >>> 
