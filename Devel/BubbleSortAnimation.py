@@ -2,7 +2,7 @@
 Name:  BubbleSortAnimation.py
 Author:  Lee Brown
 Created:  11/18/2020
-Last Updated:  11/18/2020
+Last Updated:  11/24/2020
 Purpose:  This is to animate the process of bubble sorting.
 Description:
 Sources:
@@ -76,7 +76,7 @@ def bubble_animation(unsorted_list):
     return unsorted_list
 
 if __name__ == '__main__':
-    unsorted_list = rand.randomIntList(50, 0, 50)
+    unsorted_list = rand.randomIntList(100, 0, 50)
     print(unsorted_list)
     value = bubble_animation(unsorted_list)
     print(value)
