@@ -2,7 +2,7 @@
 Name:  Queues.py
 Author:  Lee Brown
 Created:  10/07/2020
-Last Updated:  10/07/2020
+Last Updated:  12/10/2020
 Purpose:  This is to create a basic queue data structure.
 Description:  This is going to create a class that can be used to create queue objects.  Even if there is a standard queue module in Python, I think that I should build my own.
      - If an opperation was successful, the method will return True or the relevant data.  Otherwise, it will return False.
@@ -29,12 +29,13 @@ class Queue:
             self.queue = shiftArray(self.queue)
             self.queue[0] = data
             self.end = self.end + 1
+            return True
         elif (self.end == -1):
             self.end = self.end + 1
             self.queue[self.end] = data
             return True
         else:
-            print("ERROR:  Queue Full.")
+            #print("ERROR:  Queue Full.")
             return False
     
     def dequeue(self):
@@ -44,7 +45,7 @@ class Queue:
             self.end = self.end - 1
             return value
         else:
-            print("ERROR:  Queue is empty.")
+            #print("ERROR:  Queue is empty.")
             return False
 
     
@@ -52,7 +53,7 @@ class Queue:
         if (self.end != 0):
             return self.queue[self.end]
         else:
-            print("ERROR:  Queue empty.")
+            #print("ERROR:  Queue empty.")
             return False
 
     def isEmpty(self):
@@ -66,4 +67,6 @@ class Queue:
             return True
         else:
             return False
+    def getLength(self):
+        return (self.end - self.start)
     

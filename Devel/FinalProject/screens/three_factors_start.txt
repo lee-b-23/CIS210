@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+FactorsOfThreeStart                                           Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                                   Three Factor
+
+
+             The following program finds all of the numbers for which
+                       three is a factor in a list of integers.
+
+                Type a list of integers separated by commas, or
+                  press ENTER to use a list of random integers.
+
+
+
+
+
+
+
+
+
+Type list here or press ENTER >>> 

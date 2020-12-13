@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+StackSortEnd                                                  Date: 10/23/2020
+
+
+                               CIS210 Final Project
+                                   Stack Sort
+
+
+
+                                Sorted List Result
+
+                   <l1>
+                   <l2>
+                   <l3>
+                   <l4>
+                   <l5>
+                   <l6>
+                   <l7>
+
+
+
+
+Type E to exit or press ENTER to try again >>> 

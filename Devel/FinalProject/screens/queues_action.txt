@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+QueuesOperation                                               Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                               Make Your Own Queue
+
+
+                              
+    <queue>
+
+                   Choose an operation to use on your queue:
+                     ENQUEUE                             (1)
+                     DEQUEUE                             (2)
+                     PEEK                                (3)
+                     ISEMPTY?                            (4)
+                     ISFULL?                             (5)
+                     GET POINTER                         (6)
+
+
+
+
+Type option # here >>> 

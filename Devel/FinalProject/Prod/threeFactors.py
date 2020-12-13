@@ -4,9 +4,10 @@ This program's purpose is to find all of the numbers in an array which have thre
 Author: Lee Brown
 Name: threeFactors.py
 Date:  9/12/2020
+Last Updated:  12/08/2020
 """
-import randomIntList as r
-import timer
+from . import randomIntList as r
+from . import timer
 
 
 def addPlaces(num):
@@ -33,7 +34,7 @@ def threeFactors(array):
             pass
     return(resultsArray)
 
-def test():
+if __name__ == '__main__':
     array = r.randomIntList(1000, -5000, 5000)
     #print(array)
     print("")
@@ -41,4 +42,3 @@ def test():
     print("---factors of three---")
     print(len(totalFactors))
     print(totalFactors)
-#test()

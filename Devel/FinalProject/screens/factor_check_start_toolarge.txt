@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+FactorCheckStartIncorrect                                     Date: 10/23/2020
+
+
+                               CIS210 Final Project
+                                  Factor Checker
+								   
+
+       This program can detect whether one number is a factor of another.
+
+      Enter the potential factor and the number that it could be a factor
+                           of in the following format:
+
+                      '[potential factor], [original number]'
+     Only integers and commas are allowed.  Anything formatted improperly
+                                 will not work.
+
+
+                                     WARNING!
+        Numbers above 9999999999999998 don't work and won't be allowed
+
+                               <Input is too large!>
+Type E to exit or press ENTER to try again >>> 

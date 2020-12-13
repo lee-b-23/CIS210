@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+BubbleSortStart                                               Date: 10/23/2020
+
+
+                               CIS210 Final Project
+                                   Bubble Sort
+								   
+
+        Before the list is sorted, would you like to see an animation
+        of the sorting process?  If so, type 'y' or 'yes'.  Otherwise,
+                                   press ENTER.
+
+
+
+
+
+      WARNING:  DO NOT USE ANIMATION FOR LARGE LISTS.  USE ANIMATION AT
+                                     OWN RISK.
+
+
+
+
+Type 'y'/'yes' or press ENTER >>> 

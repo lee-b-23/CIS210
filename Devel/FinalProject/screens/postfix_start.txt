@@ -14,7 +14,7 @@ PostfixSolverStart                                            Date: 10/22/2020
                           the result may be incorrect.
 
                                    Example:
-                                    1 2-c+
+                                    1 2-8+
 
 
 

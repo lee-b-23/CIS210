@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+StackSortStart                                                Date: 10/23/2020
+
+
+                               CIS210 Final Project
+                                    Stack Sort
+								   
+
+        This program will sort a list using the stack data structure.
+
+                                     OPTIONS
+                   - Enter a list of integers separated by commas
+                   - Press ENTER to use a randomly generated list
+
+
+
+                                List Input Format
+                           '1, 2, 3, 4, 5, 6, -1948, 0'
+                                       or 
+                              '1,2,3,4,5,6,-1948,0'
+
+
+Type a list of integers or press ENTER >>> 

@@ -6,19 +6,19 @@ AboutScreen                                                   Date: 10/22/2020
                               CIS210 Final Project
                                      About
 
+   This program was created by Lee Brown as his final project for his
+   CIS210 course at Manchester Community College.  It is meant to help
+   showcase the various small and large programs that he created in
+                   this class during the fall 2020 semester.
+
+  Instructions for each part of this program are provided on the introductory
+  screen of that particular selection, and guidance is placed throughout most
+    parts of the app in order to ensure a consistently positive experience.
+
+    If you would like to contact Lee about this program, you can send him an
+   email at lbrown565@students.ccsnh.edu.  Make sure to put 'CIS210 Showcase
+                           App' in the email title.
 
 
 
-                 This program was created by Lee Brown as his
-                    final project for his CIS210 course at
-                         Manchester Community College.
-
-         If you would like to contact Lee, you can send him an email
-                        at lbrown565@students.ccsnh.edu.
-
-
-
-
-
-
-Type position # here >>> 
+Press ENTER >>> 

@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+RandIntGeneratorStart                                         Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                          Random Integer List Generator
+
+
+     This code generates a random list of integers based on input given to it.
+                         You must provide the following:
+         - min:  the lowest value any one of these values can be
+         - max:  the highest value any one of these values can be
+         - total:  the total number of items in the list
+
+       Format your request by replacing those values in the template below:
+
+                            '[total], [min], [max]'
+
+
+           NOTE:  Only integers and commas are allowed in your input.
+
+
+Type an answer in the format shown above >>> 

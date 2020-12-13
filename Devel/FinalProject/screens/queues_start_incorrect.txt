@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+QueuesStartIncorrect                                          Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                               Make Your Own Queue
+
+
+
+
+This program will allow you to be able to build and "play with" your own queue
+              using the author's own queue data structure module.
+
+   Type a positive integer between 1 and 9 to create a queue of that size.
+
+
+
+
+
+
+
+                                <Incorrect Input>
+Type E to exit or press ENTER to try again >>> 

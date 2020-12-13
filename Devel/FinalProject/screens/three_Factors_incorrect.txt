@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+FactorsOfThreeIncorrect                                       Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                                   Three Factor
+
+
+
+
+                       That input seems to be incorrect.
+                     Press ENTER to try again or E to exit.
+
+
+
+
+
+
+
+
+
+                               <INCORRECT INPUT>
+Type E to exit or press ENTER to try again >>> 

@@ -66,12 +66,12 @@ def solvePF(expression):
                 pass
         result = numbers.pop()
         if (numbers.getPointer() > -1):
-            print("ERROR:  Missing one or more signs in expression.")
+            #print("ERROR:  Missing one or more signs in expression.")
             return False
         else:
             return result
     except TypeError:
-        print("ERROR:  Too many signs")
+        #print("ERROR:  Too many signs")
         return False
         
         

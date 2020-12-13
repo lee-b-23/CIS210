@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+StacksOperationIncorrect                                      Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                               Make Your Own Stack
+
+
+                              
+    <stack>
+
+                   Choose an operation to use on your queue:
+                     Push                                (1)
+                     Pop                                 (2)
+                     PEEK                                (3)
+                     ISEMPTY?                            (4)
+                     ISFULL?                             (5)
+                     GET POINTER                         (6)
+
+
+
+                                <Incorrect Input!>
+Type E to exit or press ENTER to try again >>> 

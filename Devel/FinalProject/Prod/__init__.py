@@ -1,1 +1,1 @@
-__all__ = ['LargestNum', 'OrderedLL2', 'PostfixExpressionGenerator', 'PostfixSolver', 'QueuePostfixSolver', 'Queues', 'randomIntList', 'StackBuilder', 'timer']
+__all__ = ['StackBuilder', 'StackSort', 'FindPrimes', 'IsFactor', 'BubbleSort', 'BubbleSortAnimation', 'LargestNum', 'OrderedLL2', 'PostfixExpressionGenerator', 'PostfixSolver', 'QueuePostfixSolver', 'Queues', 'randomIntList', 'StackBuilder', 'timer', 'threeFactors']

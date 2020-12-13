@@ -5,20 +5,20 @@ MainMenu                                                      Date: 10/23/2020
 
                                CIS210 Final Project
                                    Main Menu
-								   
-                            ________________________
-                           |TIMER                (1)|
-                           |LARGEST NUMBER       (2)|
-                           |POSTFIX MATH SOLVER  (3)|
-                           |LOTS OF CHOICES      (4)|
-                           |CHOOSE WISELY        (5)|
-                           |ABOUT                (6)|
-                           |EXIT                 (7)|
-                           |________________________|
-
-
-
-
-
+                    ________________________________________
+                   |TIMER                                (1)|
+                   |LARGEST NUMBER                       (2)|
+                   |POSTFIX MATH SOLVER                  (3)|
+                   |Three Factors Into?                  (4)|
+                   |Random Integer List Generator        (5)|
+                   |Bubble Sorting Lists                 (6)|
+                   |Find Prime Numbers                   (7)|
+                   |Factor Checker                       (8)|
+                   |Queue Builder                        (9)|
+                   |Stack Builder                       (10)|
+                   |Stack Sort                          (11)|
+                   |ABOUT                               (12)|
+                   |EXIT                                (13)|
+                   |________________________________________|
 
 Type only the # of desired option >>> 

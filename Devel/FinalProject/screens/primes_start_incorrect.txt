@@ -1,0 +1,24 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567-90
+CIS210 FinalProject                                         Author:  Lee Brown
+PrimeNumberFinderStartIncorrect                               Date: 10/22/2020
+
+
+                               CIS210 Final Project
+                               Prime Number Finder
+
+
+
+
+        This program will find the any given amount of prime numbers.
+        To get a list of x prime numbers, type x as an integer below.
+
+       EXAMPLE:  If you would like the first 10 prime numbers, type...
+                                      '10'
+
+
+                                    WARNING:
+        Inputs Larger than 100 will increase wait time drastically.  Use
+                                  at own risk.
+
+                                <Incorrect Input>
+Type E to exit or press ENTER to try again >>>  

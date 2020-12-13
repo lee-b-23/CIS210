@@ -81,18 +81,15 @@ def find_primes(maximum, _primes_ = None, _changes_ = 0, _recursions_ = 0):
 
 def return_x_primes(num):
     x = 2
-    print("LOADING...")
     while True:
         test = find_primes(x)
         if len(test) == num:
-            time.sleep(5)
             break
         else:
             x += 1
     return test
 
-value = return_x_primes(100)
-print(value)
-print("Length of list = " + str(len(value)))
-
-#print(find_primes(1000))
+if __name__ == '__main__':
+    value = return_x_primes(10)
+    
+    #print(find_primes(1000))
